@@ -78,7 +78,7 @@ export default function Home() {
           <div className="w-[240px] md:w-[280px] aspect-[4/5] rounded-xl border-[3px] border-[var(--gold)] overflow-hidden bg-[#333]">
             {/* eslint-disable-next-line @next/next/no-img-element */}
             <img
-              src="/images/nishi.jpg"
+              src="/images/nishi.png"
               alt="Nishi Malvi, ACCA trainer"
               className="w-full h-full object-cover"
             />
